@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AnnaGola
-- 👀 I’m interested in syntax of swift and swiftUI
-- 🌱 I’m currently learning algorithms
-- 💞️ I’m looking to collaborate on any pet-project to develop my understending of how to code properly 
+- 👋 Hi, I’m Anna Goloshchapova
+- 👀 I'm interested in creating apps that would be as helpfull as possible (with well writted code)
+- 🌱 I’m currently learning how to work with UIKit and SwiftUI 
+- 💞️ While i'm in the prosses of learning, i wanna create from scratch(not a language) one hundred apps! 
+     If you can help my code to become better, please, commit! 
 - 📫 How to reach me annagol.work@mail.ru
 
 <!---
